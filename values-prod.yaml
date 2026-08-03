@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: artifact.registry.com:8082/python-demo-app
-  tag: "abc123"
+  tag: "3b5358d9a2075a6cb2a165102fb9028fa40441b5"
 
 service:
   type: ClusterIP
